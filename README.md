@@ -21,8 +21,8 @@ NVideo Copilot transcribes a video (or describes its frames when it has no speec
 Requirements: Python 3.10+ and a free [Groq API key](https://console.groq.com/keys).
 
 ```bash
-git clone https://github.com/<your-username>/nvideo-copilot.git
-cd nvideo-copilot
+git clone https://github.com/<nihatrasulzada>/nvideo-copilot.git
+cd NVideo-Copilot
 
 python -m venv .venv
 # Windows: .venv\Scripts\activate      macOS/Linux: source .venv/bin/activate
