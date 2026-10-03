@@ -1,0 +1,8 @@
+streamlit>=1.40
+faster-whisper>=1.0
+chromadb>=1.0
+groq>=0.30
+yt-dlp>=2025.1.1
+opencv-python>=4.9
+imageio-ffmpeg>=0.5
+python-dotenv>=1.0

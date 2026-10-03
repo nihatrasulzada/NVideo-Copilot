@@ -1,0 +1,5 @@
+[server]
+maxUploadSize = 1000   # MB, böyük videolar üçün (standart 200)
+
+[browser]
+gatherUsageStats = false
