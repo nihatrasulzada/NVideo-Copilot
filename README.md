@@ -4,6 +4,11 @@ Ask questions about any video and jump straight to the moment that answers them.
 
 NVideo Copilot transcribes a video (or describes its frames when it has no speech), indexes the result, and lets you chat with it. Every answer is written in **Azerbaijani and English**, cites the timestamps it relies on, and comes with the matching **video clips** cut automatically.
 
+![NVideo Copilot screenshot](docs/screenshot.png)
+
+![NVideo Copilot answer and clips](docs/screenshot2.png)
+   
+
 ## Features
 
 - **Two analysis modes**
